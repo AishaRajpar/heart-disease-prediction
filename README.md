@@ -71,7 +71,7 @@ HeartDiseases/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/heart-disease-prediction.git
+git clone https://github.com/AishaRajpar/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
@@ -137,6 +137,8 @@ This project is open-source and available for educational and learning purposes.
 ---
 
 ## 🙋 Author
-Aisha Rajpar Software Engineering Student
+
+**Aisha Rajpar**
+Software Engineering Student
 
 Built as a Machine Learning learning project. Contributions and suggestions are welcome!
